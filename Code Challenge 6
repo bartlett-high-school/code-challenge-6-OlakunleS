@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Code Challenge 6</title>
+	</head>
+
+	<body>
+		<table border="5">
+			<tr>
+				<td>What is your name?</td>
+				<td>Olakunle Salami</td>
+			</tr>
+
+			<tr>
+				<td>Where did you attend middle school?</td>
+				<br>
+				<td>Shadowlawn MIddle School</td>
+			</tr>
+			<tr>
+				<td>What was your favorite vacation?</td>
+				<td>New Orleans</td>
+			</tr>
+		</table>
+	</body>
+</html>
